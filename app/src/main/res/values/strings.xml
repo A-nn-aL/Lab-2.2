@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mb 2.2</string>
+    <string-array name="words">
+        <item>name</item>
+        <item>word</item>
+        <item>capacity</item>
+        <item>stalemate</item>
+    </string-array>
+</resources>
